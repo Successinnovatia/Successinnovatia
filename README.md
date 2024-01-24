@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Success Divine
-- 👀 I’m interested in Fullstack web development
-- 🌱 I’m currently learning JavaScript and python
+- 👀 I’m interested in Software development
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 You can reach me on
      Twitter @emperordivo
